@@ -1,0 +1,241 @@
+[
+  {
+    "id": "varc_2023_s1_rc1_1",
+    "text": "The central theme of the passage is best described as:",
+    "passage": "The shifting sands of the global economy have brought the concept of 'resilience' to the forefront of supply chain management. For decades, the dominant philosophy was 'just-in-time' efficiency, minimizing inventory and cutting costs. However, recent geopolitical upheavals and pandemics have exposed the fragility of this lean model. Resilience, in contrast, prioritizes redundancy and flexibility—sourcing from multiple geographies and holding buffer stocks. While this 'just-in-case' approach incurs higher holding costs, proponents argue it is an insurance premium worth paying against catastrophic disruptions. The transition is not merely operational but philosophical, requiring shareholders to accept lower short-term margins for long-term viability.",
+    "options": ["The efficiency of 'just-in-time' supply chains.", "The transition from efficiency-focused to resilience-focused supply chains.", "The impact of pandemics on global trade.", "The financial costs of holding inventory."],
+    "correctAnswer": 1,
+    "explanation": "The passage contrasts the old 'just-in-time' model with the new 'resilience' model, describing the shift in philosophy and operations.",
+    "category": "VARC",
+    "year": "2023",
+    "slot": "Slot 1"
+  },
+  {
+    "id": "varc_2023_s1_rc1_2",
+    "text": "Which of the following, if true, would strengthen the argument for maintaining the 'just-in-time' model?",
+    "passage": "The shifting sands of the global economy have brought the concept of 'resilience' to the forefront of supply chain management. For decades, the dominant philosophy was 'just-in-time' efficiency, minimizing inventory and cutting costs. However, recent geopolitical upheavals and pandemics have exposed the fragility of this lean model. Resilience, in contrast, prioritizes redundancy and flexibility—sourcing from multiple geographies and holding buffer stocks. While this 'just-in-case' approach incurs higher holding costs, proponents argue it is an insurance premium worth paying against catastrophic disruptions. The transition is not merely operational but philosophical, requiring shareholders to accept lower short-term margins for long-term viability.",
+    "options": ["Global disruptions are predicted to become more frequent.", "Advanced AI can predict disruptions with 99% accuracy, allowing lean inventories to adjust instantly.", "Warehousing costs are rising globally.", "Shareholders are increasingly risk-averse."],
+    "correctAnswer": 1,
+    "explanation": "If AI can predict disruptions perfectly, the main weakness of 'just-in-time' (fragility to disruption) is mitigated without needing the costly buffers of 'resilience'.",
+    "category": "VARC",
+    "year": "2023",
+    "slot": "Slot 1"
+  },
+  {
+    "id": "varc_2023_s1_rc1_3",
+    "text": "The author implies that shareholders:",
+    "passage": "The shifting sands of the global economy have brought the concept of 'resilience' to the forefront of supply chain management. For decades, the dominant philosophy was 'just-in-time' efficiency, minimizing inventory and cutting costs. However, recent geopolitical upheavals and pandemics have exposed the fragility of this lean model. Resilience, in contrast, prioritizes redundancy and flexibility—sourcing from multiple geographies and holding buffer stocks. While this 'just-in-case' approach incurs higher holding costs, proponents argue it is an insurance premium worth paying against catastrophic disruptions. The transition is not merely operational but philosophical, requiring shareholders to accept lower short-term margins for long-term viability.",
+    "options": ["Prefer high risks.", "Have historically prioritized short-term efficiency over long-term resilience.", "Are driving the change towards resilience.", "Do not care about supply chain management."],
+    "correctAnswer": 1,
+    "explanation": "The last sentence suggests shareholders must now 'accept lower short-term margins', implying they previously prioritized the higher margins of the efficiency model.",
+    "category": "VARC",
+    "year": "2023",
+    "slot": "Slot 1"
+  },
+  {
+    "id": "varc_2023_s1_pj_1",
+    "text": "Rearrange the sentences to form a paragraph:\n1. This creates a feedback loop where the ice melts faster.\n2. Albedo is the measure of reflectivity of a surface.\n3. As polar ice melts, less sunlight is reflected back into space.\n4. Darker ocean water absorbs more heat than white ice.",
+    "options": ["2-3-4-1", "2-4-3-1", "3-4-1-2", "4-3-1-2"],
+    "correctAnswer": 0,
+    "explanation": "2 defines the concept. 3 applies it to ice melting. 4 explains the consequence (absorption). 1 describes the result (feedback loop).",
+    "category": "VARC",
+    "year": "2023",
+    "slot": "Slot 1"
+  },
+  {
+    "id": "varc_2023_s1_pj_2",
+    "text": "Rearrange the sentences:\n1. But the precise nature of this consciousness remains elusive.\n2. Scientists have long debated whether animals possess consciousness similar to humans.\n3. Recent studies on crows and octopuses suggest high levels of problem-solving abilities.\n4. These findings challenge the notion that complex thought is unique to primates.",
+    "options": ["2-3-4-1", "2-1-3-4", "3-4-2-1", "2-4-3-1"],
+    "correctAnswer": 0,
+    "explanation": "2 introduces the debate. 3 provides evidence (studies). 4 interprets the evidence. 1 adds a nuance/limitation.",
+    "category": "VARC",
+    "year": "2023",
+    "slot": "Slot 1"
+  },
+  {
+    "id": "dilr_2023_s1_set1_1",
+    "text": "Four factories (A, B, C, D) produce widgets. A produces double that of B. C produces 50 more than A. D produces the average of A and C. Total production is 775. How many widgets does B produce?",
+    "passage": "Production Data:\n- A = 2B\n- C = A + 50\n- D = (A + C) / 2\n- A + B + C + D = 775",
+    "options": ["100", "150", "200", "120"],
+    "correctAnswer": 0,
+    "explanation": "Let B = x. A = 2x. C = 2x + 50. D = (2x + 2x + 50)/2 = 2x + 25. Total: 2x + x + 2x + 50 + 2x + 25 = 775. 7x + 75 = 775. 7x = 700. x = 100.",
+    "category": "DILR",
+    "year": "2023",
+    "slot": "Slot 1"
+  },
+  {
+    "id": "dilr_2023_s1_set1_2",
+    "text": "If Factory A increases production by 10% and B decreases by 10%, what is the net change in total production of A and B?",
+    "passage": "Production Data (Base Case: B=100):\n- A = 200\n- B = 100",
+    "options": ["Increase of 10", "Increase of 20", "Decrease of 10", "No change"],
+    "correctAnswer": 0,
+    "explanation": "A=200, B=100. New A = 220 (+20). New B = 90 (-10). Net change = +10.",
+    "category": "DILR",
+    "year": "2023",
+    "slot": "Slot 1"
+  },
+  {
+    "id": "dilr_2023_s1_set1_3",
+    "text": "What is the ratio of production of C to D?",
+    "passage": "Production Data (Base Case: B=100):\n- A = 200\n- B = 100\n- C = 250\n- D = 225",
+    "options": ["10:9", "9:10", "5:4", "4:5"],
+    "correctAnswer": 0,
+    "explanation": "C = 250, D = 225. Ratio C:D = 250:225 = 10:9.",
+    "category": "DILR",
+    "year": "2023",
+    "slot": "Slot 1"
+  },
+  {
+    "id": "quant_2023_s1_arith_1",
+    "text": "A and B together can do a piece of work in 12 days. B and C together can do it in 15 days. If A is twice as good a workman as C, in how many days will B alone do the work?",
+    "options": ["20 days", "25 days", "30 days", "18 days"],
+    "correctAnswer": 0,
+    "explanation": "1/A + 1/B = 1/12; 1/B + 1/C = 1/15. Subtract: 1/A - 1/C = 1/60. Since A=2C (efficiency), rate A = 2 * rate C. So 2/C - 1/C = 1/60 => 1/C = 1/60. C takes 60 days. 1/B = 1/15 - 1/60 = 3/60 = 1/20. B takes 20 days.",
+    "category": "Quant",
+    "year": "2023",
+    "slot": "Slot 1"
+  },
+  {
+    "id": "quant_2023_s1_geom_1",
+    "text": "In a triangle ABC, the lengths of sides AB, BC, and AC are 10, 24, and 26 respectively. Find the length of the altitude drawn from B to AC.",
+    "options": ["8.4", "9.23", "9.6", "10"],
+    "correctAnswer": 1,
+    "explanation": "10-24-26 is a right triangle. Area = 0.5 * 10 * 24 = 120. Also Area = 0.5 * 26 * h. h = 240/26 = 9.23.",
+    "category": "Quant",
+    "year": "2023",
+    "slot": "Slot 1"
+  },
+  {
+    "id": "quant_2023_s1_alg_1",
+    "text": "If x + 1/x = 4, find the value of x^3 + 1/x^3.",
+    "options": ["52", "64", "56", "48"],
+    "correctAnswer": 0,
+    "explanation": "x^3 + 1/x^3 = (x+1/x)^3 - 3(x+1/x) = 4^3 - 3(4) = 64 - 12 = 52.",
+    "category": "Quant",
+    "year": "2023",
+    "slot": "Slot 1"
+  },
+  {
+    "id": "quant_2023_s1_num_1",
+    "text": "The remainder when 3^2023 is divided by 5 is:",
+    "options": ["2", "3", "4", "1"],
+    "correctAnswer": 0,
+    "explanation": "Powers of 3 mod 5: 3^1=3, 3^2=4, 3^3=2, 3^4=1. Cycle is 4. 2023 = 4k + 3. So remainder is same as 3^3 mod 5 = 27 mod 5 = 2.",
+    "category": "Quant",
+    "year": "2023",
+    "slot": "Slot 1"
+  },
+  {
+    "id": "varc_2023_s2_rc1_1",
+    "text": "The passage suggests that the 'Great Resignation' was primarily driven by:",
+    "passage": "The 'Great Resignation' of 2021 was not simply a demand for higher wages, as many economists initially posited. It was a mass re-evaluation of the role of work in life, triggered by the existential pause of the pandemic. Surveys indicated that employees prioritized flexibility, purpose, and mental well-being over paychecks. This shift forces corporations to redesign the employee value proposition, moving beyond transactional relationships to relational ones.",
+    "options": ["Low wages in the service sector.", "A desire for better work-life balance and purpose.", "Government unemployment benefits.", "Fear of contracting the virus."],
+    "correctAnswer": 1,
+    "explanation": "Text explicitly mentions 'employees prioritized flexibility, purpose, and mental well-being'.",
+    "category": "VARC",
+    "year": "2023",
+    "slot": "Slot 2"
+  },
+  {
+    "id": "varc_2023_s2_rc1_2",
+    "text": "According to the passage, how should corporations respond?",
+    "passage": "The 'Great Resignation' of 2021 was not simply a demand for higher wages, as many economists initially posited. It was a mass re-evaluation of the role of work in life, triggered by the existential pause of the pandemic. Surveys indicated that employees prioritized flexibility, purpose, and mental well-being over paychecks. This shift forces corporations to redesign the employee value proposition, moving beyond transactional relationships to relational ones.",
+    "options": ["By increasing wages significantly.", "By ignoring the trend as temporary.", "By moving to relational rather than transactional relationships.", "By automating more jobs."],
+    "correctAnswer": 2,
+    "explanation": "Last sentence: 'moving beyond transactional relationships to relational ones'.",
+    "category": "VARC",
+    "year": "2023",
+    "slot": "Slot 2"
+  },
+  {
+    "id": "quant_2023_s2_arith_1",
+    "text": "A mixture contains milk and water in the ratio 3:1. How much fraction of the mixture must be drawn off and substituted with water so that the ratio of milk and water in the resultant mixture becomes 1:1?",
+    "options": ["1/3", "1/4", "1/2", "2/3"],
+    "correctAnswer": 0,
+    "explanation": "Milk fraction 3/4 -> 1/2. Let f be fraction replaced. Remaining milk = (3/4)(1-f). (3/4)(1-f) = 1/2. 1-f = 2/3. f = 1/3.",
+    "category": "Quant",
+    "year": "2023",
+    "slot": "Slot 2"
+  },
+  {
+    "id": "quant_2023_s2_ts_1",
+    "text": "A train passes a pole in 15 seconds and passes a platform 100m long in 25 seconds. The length of the train is:",
+    "options": ["150 m", "200 m", "250 m", "125 m"],
+    "correctAnswer": 0,
+    "explanation": "Speed = L/15 = (L+100)/25. 5L = 3L + 300. 2L=300. L=150.",
+    "category": "Quant",
+    "year": "2023",
+    "slot": "Slot 2"
+  },
+  {
+    "id": "dilr_2023_s2_logic_1",
+    "text": "In a family of six persons A, B, C, D, E and F, there are two married couples. D is the grandmother of A and mother of B. C is the wife of B and mother of F. F is the granddaughter of E. Who is C to A?",
+    "options": ["Mother", "Grandmother", "Aunt", "Sister"],
+    "correctAnswer": 0,
+    "explanation": "C is wife of B, who is father of A (implied by D being grandmother of A and mother of B). So C is mother.",
+    "category": "DILR",
+    "year": "2023",
+    "slot": "Slot 2"
+  },
+  {
+    "id": "dilr_2023_s2_logic_2",
+    "text": "Who is E to B?",
+    "passage": "Family Tree: D is grandmother of A & mother of B. C is wife of B & mother of F. F is granddaughter of E.",
+    "options": ["Father", "Brother", "Uncle", "Son"],
+    "correctAnswer": 0,
+    "explanation": "D is grandma, so D is female. E must be the grandfather for F to be granddaughter. So E is husband of D, hence Father of B.",
+    "category": "DILR",
+    "year": "2023",
+    "slot": "Slot 2"
+  },
+  {
+    "id": "quant_2022_s1_num_1",
+    "text": "How many factors of 2^4 * 3^5 * 10^4 are perfect squares which are greater than 1?",
+    "options": ["44", "45", "40", "39"],
+    "correctAnswer": 0,
+    "explanation": "N = 2^8 * 3^5 * 5^4. Perfect square factors: powers of primes must be even. 2^{0,2,4,6,8} (5 options). 3^{0,2,4} (3 options). 5^{0,2,4} (3 options). Total = 5*3*3 = 45. Exclude 1 (all powers 0). Result 44.",
+    "category": "Quant",
+    "year": "2022",
+    "slot": "Slot 1"
+  },
+  {
+    "id": "varc_2022_s1_sum_1",
+    "text": "Summary: The human brain is not an empty vessel to be filled, but a fire to be kindled. Education should stimulate curiosity rather than rote memorization.",
+    "options": ["Education is about filling the mind with facts.", "Curiosity is the fuel of true education.", "Memorization is essential for learning.", "The brain is a vessel."],
+    "correctAnswer": 1,
+    "explanation": "The summary captures the metaphor of 'fire to be kindled' equating to curiosity.",
+    "category": "VARC",
+    "year": "2022",
+    "slot": "Slot 1"
+  },
+  {
+    "id": "quant_2022_s1_mix_1",
+    "text": "A container contains 40 litres of milk. From this container 4 litres of milk was taken out and replaced by water. This process was repeated two more times. How much milk is now contained by the container?",
+    "options": ["29.16 litres", "30 litres", "32.4 litres", "28 litres"],
+    "correctAnswer": 0,
+    "explanation": "Formula: Final = Initial * (1 - removed/total)^n. 40 * (1 - 4/40)^3 = 40 * (0.9)^3 = 40 * 0.729 = 29.16.",
+    "category": "Quant",
+    "year": "2022",
+    "slot": "Slot 1"
+  },
+  {
+    "id": "quant_2022_s1_pnc_1",
+    "text": "How many 3-digit numbers can be formed using the digits 1, 2, 3, 4, 5 without repetition?",
+    "options": ["60", "120", "20", "10"],
+    "correctAnswer": 0,
+    "explanation": "5P3 = 5 * 4 * 3 = 60.",
+    "category": "Quant",
+    "year": "2022",
+    "slot": "Slot 1"
+  },
+  {
+    "id": "dilr_2022_s1_circ_1",
+    "text": "A, B, C, D, E, F are sitting around a circular table facing center. A is second to right of D. C is third to left of D. F is second to left of C. B is not neighbor of C. Who sits to the immediate right of A?",
+    "options": ["B", "E", "F", "D"],
+    "correctAnswer": 1,
+    "explanation": "Arrangement: D -> (skip) -> A. C is opposite D (3rd left in 6 ppl). F is 2nd left of C. E fills gap right of A.",
+    "category": "DILR",
+    "year": "2022",
+    "slot": "Slot 1"
+  }
+]

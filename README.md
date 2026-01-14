@@ -1,4 +1,4 @@
-[link :](https://thunderous-otter-28c2ef.netlify.app/)
+link : [click here!](https://thunderous-otter-28c2ef.netlify.app/)
 
 # AI Studio Gemini App
 

@@ -1,3 +1,5 @@
+[link :](https://thunderous-otter-28c2ef.netlify.app/)
+
 # AI Studio Gemini App
 
 This project is a **React + TypeScript web application** built using **Vite** and integrated with **Google Gemini API** via `@google/genai`.  
